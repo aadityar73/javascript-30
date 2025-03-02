@@ -25,7 +25,6 @@ Each project has been deployed for easy access. Click the links below to view th
 | **JavaScript Drum Kit**                            | [Live Demo](https://js-drumkit-aadityar73.vercel.app)     |
 | **CSS + JS Clock**                                 | [Live Demo](https://js-css-clock-aadityar73.vercel.app/)  |
 | **Playing with CSS Variables and JS**              | [Live Demo](https://css-variables-aadityar73.vercel.app/) |
-| **Array Cardio Day 1**                             | [Live Demo](#)                                            |
 | **Flex Panels Image Gallery**                      | [Live Demo](#)                                            |
 | **Ajax Type Ahead**                                | [Live Demo](#)                                            |
 | **Array Cardio Day 2**                             | [Live Demo](#)                                            |
