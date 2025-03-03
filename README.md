@@ -26,8 +26,7 @@ Each project has been deployed for easy access. Click the links below to view th
 | **CSS + JS Clock**                                 | [Live Demo](https://js-css-clock-aadityar73.vercel.app/)       |
 | **Playing with CSS Variables and JS**              | [Live Demo](https://css-variables-aadityar73.vercel.app/)      |
 | **Flex Panels Image Gallery**                      | [Live Demo](https://flex-panel-gallery-aadityar73.vercel.app/) |
-| **Ajax Type Ahead**                                | [Live Demo](#)                                                 |
-| **Array Cardio Day 2**                             | [Live Demo](#)                                                 |
+| **Ajax Type Ahead**                                | [Live Demo](https://type-ahead-aadityar73.vercel.app/)         |
 | **Fun with HTML5 Canvas**                          | [Live Demo](#)                                                 |
 | **14 Must Know Dev Tools**                         | [Live Demo](#)                                                 |
 | **Hold Shift to Check Multiple Checkboxes**        | [Live Demo](#)                                                 |
