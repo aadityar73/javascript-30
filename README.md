@@ -27,7 +27,7 @@ Each project has been deployed for easy access. Click the links below to view th
 | **Playing with CSS Variables and JS**              | [Live Demo](https://css-variables-aadityar73.vercel.app/)      |
 | **Flex Panels Image Gallery**                      | [Live Demo](https://flex-panel-gallery-aadityar73.vercel.app/) |
 | **Ajax Type Ahead**                                | [Live Demo](https://type-ahead-aadityar73.vercel.app/)         |
-| **Fun with HTML5 Canvas**                          | [Live Demo](#)                                                 |
+| **Fun with HTML5 Canvas**                          | [Live Demo](https://html-canvas-aadityar73.vercel.app/)        |
 | **14 Must Know Dev Tools**                         | [Live Demo](#)                                                 |
 | **Hold Shift to Check Multiple Checkboxes**        | [Live Demo](#)                                                 |
 | **Custom HTML5 Video Player**                      | [Live Demo](#)                                                 |
